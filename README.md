@@ -11,6 +11,6 @@ for peak detection in count data
 
 2) http://arxiv.org/pdf/1506.01286v1.pdf - PeakSegJoint: fast supervised peak detection via joint segmentation of multiple count data samples
 
-3) An innovative peak detection algorithm for photoplethysmography signals: an 2 adaptive segmentation method 
+3) http://online.journals.tubitak.gov.tr/openAcceptedDocument.htm?fileID=421534&no=91212 - An innovative peak detection algorithm for photoplethysmography signals: an 2 adaptive segmentation method 
 
 4) http://www.sciencedirect.com/science/article/pii/S0169260714000546 - Automatic moment segmentation and peak detection analysis of heart sound pattern via short-time modified Hilbert transform
