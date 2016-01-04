@@ -20,3 +20,4 @@ for peak detection in count data
 1) http://ac.els-cdn.com/S1877050915035061/1-s2.0-S1877050915035061-main.pdf?_tid=973d3d98-b14e-11e5-805e-00000aab0f26&acdnat=1451738860_c044a91c29fb0408530df238c9e1569b - ECG image classification in real time based on the haar-like features
 and artificial neural networks
 
+2) http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4772977 - ECG Images Classification using Artificial Neural Network Based on Several Feature Extraction Methods 
